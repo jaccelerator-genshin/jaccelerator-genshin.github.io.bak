@@ -6,7 +6,27 @@
         <description>Recent content in css on 演示站点</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jaccelerator-genshin.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 01 Nov 2022 10:02:12 +0800</lastBuildDate><atom:link href="https://jaccelerator-genshin.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Test</title>
+        <link>https://jaccelerator-genshin.github.io/p/test/</link>
+        <pubDate>Tue, 01 Nov 2022 10:02:12 +0800</pubDate>
+        
+        <guid>https://jaccelerator-genshin.github.io/p/test/</guid>
+        <description>&lt;img src="https://jaccelerator-genshin.github.io/p/test/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Test" /&gt;&lt;h2 id=&#34;test&#34;&gt;test&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1x64y117PX/?spm_id_from=..top_right_bar_window_view_later.content.click&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo - 10分钟搭建 &amp;amp; 部署个人网站/博客，简历中的博客网站怎么建_哔哩哔哩_bilibili&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV15f4y157a6/?spm_id_from=..top_right_bar_window_view_later.content.click&amp;amp;vd_source=b9318c6ceeafe737994dee06e25eac5a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;600秒！带小白上手安装使用hugo-stack主题博客_哔哩哔哩_bilibili&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.hojun.cn/2019/04/13/cknemlo5t007iuwtusph89t0w/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;hugo+github博客搭建教程！ - hojun&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://huohuade-blog.github.io/p/%e7%94%a8hugo-stack%e4%b8%bb%e9%a2%98%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e4%b8%bb%e9%a1%b5/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;用Hugo Stack主题搭建个人主页 (huohuade-blog.github.io)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://stack.jimmycai.com/guide/getting-started&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Getting Started | Stack (jimmycai.com)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;hello hugo-stack&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Markdown Syntax Guide</title>
         <link>https://jaccelerator-genshin.github.io/p/markdown-syntax-guide/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
